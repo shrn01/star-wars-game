@@ -4,14 +4,14 @@ The aim is to collect all the classic arcade game and remaster them with various
 
 
 
-##Games List:
+## Games List:
 
 1. Star-Wars( under development )
 2. Snake-remastered( Upcoming )
 3. Tetris( Open for development )
 
 
-##Contributions:
+## Contributions:
 
 Ideas can be added to the above games list( if any )
 
