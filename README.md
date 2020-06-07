@@ -19,7 +19,9 @@ Games can be written in any language, make sure you include all the requirements
 
 If two contributers made the same game, best features of both will be taken and merged into one.
 
-Only working games will be accepted.
+You can start working on a game and multiple users can contribute to the same
+
+GOOD FOR FIRST TIMERS !!!
 
 This Repo is open for all, just add the new games and send a pull request, and add your name to Contributers list.
 Suggestions are always welcome.
